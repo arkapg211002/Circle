@@ -8,7 +8,7 @@ Here are some screenshots from localhost
 <img src="https://github.com/arkapg211002/Circle/blob/main/ss2.png"/></br>
 <img src="https://github.com/arkapg211002/Circle/blob/main/ss3.png"/></br>
 <img src="https://github.com/arkapg211002/Circle/blob/main/ss4.png"/></br>
-
+![pagespeed](https://github.com/arkapg211002/arkapg211002/blob/main/metrics.plugin.circle.screenshot.svg)
 
 # Getting Started with Create React App
 
